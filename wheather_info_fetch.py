@@ -10,7 +10,7 @@ import requests
 from datetime import datetime
 
 location = input("Enter the city name: ")
-api_key = '87d845b0b6cf29baa1a73cc34b067a95'
+api_key = '8593ef4262d25cdeb2d66c4671d6152a'
 
 complete_api_link = "https://api.openweathermap.org/data/2.5/weather?q="+location+"&appid="+api_key
 api_link = requests.get(complete_api_link)
