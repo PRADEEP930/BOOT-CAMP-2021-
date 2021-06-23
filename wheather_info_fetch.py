@@ -5,7 +5,7 @@
         send request    ;   store response          ;       varials to store and display data
         generate the text file in project folder containing weather_data/information displayed
 ---------------------------------------------------------------------------------------------------'''
-# import os
+# import module
 import requests
 from datetime import datetime
 
