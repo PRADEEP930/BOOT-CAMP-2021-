@@ -1,0 +1,44 @@
+{
+  "coord": {
+    "lon": 72.7333,
+    "lat": 19.9667
+  },
+  "weather": [
+    {
+      "id": 804,
+      "main": "Clouds",
+      "description": "overcast clouds",
+      "icon": "04d"
+    }
+  ],
+  "base": "stations",
+  "main": {
+    "temp": 301.98,
+    "feels_like": 306.24,
+    "temp_min": 301.98,
+    "temp_max": 301.98,
+    "pressure": 1005,
+    "humidity": 74,
+    "sea_level": 1005,
+    "grnd_level": 1005
+  },
+  "visibility": 10000,
+  "wind": {
+    "speed": 4.14,
+    "deg": 249,
+    "gust": 6.51
+  },
+  "clouds": {
+    "all": 91
+  },
+  "dt": 1624616380,
+  "sys": {
+    "country": "IN",
+    "sunrise": 1624581092,
+    "sunset": 1624629100
+  },
+  "timezone": 19800,
+  "id": 1273708,
+  "name": "D\u0101h\u0101nu",
+  "cod": 200
+}
